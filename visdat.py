@@ -1,3 +1,6 @@
+import streamlit as st
+import streamlit.component.v1.as.stc
+
 import io
 from numpy import average
 import pandas as pd  # pip install pandas openpyxl
